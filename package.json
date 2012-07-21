@@ -4,6 +4,7 @@
   , "private": true
   , "dependencies": {
       "express": "2.5.10"
+    , "coffee-script": ">=1.1.0"
     , "jade": ">= 0.0.1"
   }
 }
